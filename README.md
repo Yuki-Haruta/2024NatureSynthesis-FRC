@@ -1,4 +1,6 @@
 ## Description
+FRC stands for Flux-Regulated Crystallization
+
 This repository includes data and codes related to a paper which will be published in Nature Synthesis.
 
 It includes four folders: "Data", "Plot-codes", "Figures", and "for-Crystal Growth"
